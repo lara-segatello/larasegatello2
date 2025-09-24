@@ -1,11 +1,8 @@
-# lara-segatello
-Você encontrou um segredo! lara-segatello é um repositório especial. 
-<br><br/>
-
 ## Olá me chamo Lara
 ### Bem vindo ao meu perfil GitHub
 Atualmente estou estudando na escola SESI de Osvaldo Cruz no 2 °ano do Ensino Médio, e realizando um curso do SENAI de desenvolvimento de Sistemas.
-Atualmente estou aprendendo a realizar um perfil GitHub 
+Apaixonada por música 
+
 Como entrar em contato comigo: lara.marquez@aluno.senai.br
 
 
@@ -32,6 +29,4 @@ Como entrar em contato comigo: lara.marquez@aluno.senai.br
 </div>
 
 <!--avatar -->
-
-<!-- gifs --> 
-
+<div class="tenor-gif-embed" data-postid="13926288224701120626" data-share-method="host" data-aspect-ratio="1.46296" data-width="100%"><a href="https://tenor.com/view/lulucochorando-luansantana-gif-13926288224701120626">Lulucochorando Luansantana GIF</a>from <a href="https://tenor.com/search/lulucochorando-gifs">Lulucochorando GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
