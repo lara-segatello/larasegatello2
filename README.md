@@ -1,7 +1,5 @@
 # lara-segatello
-Você encontrou um segredo! lara-seatello é um repositório especial. 
-<br><br/>
-<br><br/>
+Você encontrou um segredo! lara-segatello é um repositório especial. 
 <br><br/>
 
 # Olá me chamo Lara
