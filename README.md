@@ -1,7 +1,8 @@
 # lara-segatello
 Você encontrou um segredo! lara-seatello é um repositório especial. 
 <br><br/>
-
+<br><br/>
+<br><br/>
 
 # Olá me chamo Lara
 ## Bem vindo ao meu perfil GitHub
