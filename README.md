@@ -2,7 +2,7 @@
 Você encontrou um segredo! lara-segatello é um repositório especial. 
 <br><br/>
 
-# Olá me chamo Lara
+## Olá me chamo Lara
 ## Bem vindo ao meu perfil GitHub
 Atualmente estou estudando na escola SESI de Osvaldo Cruz no 2 °ano do Ensino Médio, e realizando um curso do SENAI de desenvolvimento de Sistemas.
 Atualmente estou aprendendo a realizar um perfil GitHub 
